@@ -3,6 +3,7 @@ html   {
 }
 body  { 
     padding-top:50px; 
+    background-position: absolute;
     background-image: url('cup_print.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
