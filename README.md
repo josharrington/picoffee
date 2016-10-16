@@ -9,3 +9,7 @@ A multi-pot coffee timer written with nodejs and angularjs.
 3. Move to the directory where the repo is and run `npm install` to get the required modules.
 4. Run `node server.js` to start the application.
 5. Browse to http://localhost:3000
+
+---
+
+![Preview](https://github.com/papersackpuppet/picoffee/blob/master/screenshot.png?raw=true "Preview")
